@@ -19,6 +19,6 @@ jobs:
         run  : |
           date
         
-        name : ls
-        run : | 
-          ls
+      -  name : ls
+         run : | 
+           ls
